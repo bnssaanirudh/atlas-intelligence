@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+:root {
+  --background: #F4F6F8; /* Sohub soft grey background */
+  --foreground: #0C1016; /* Sohub dark text */
+  
+  --sohub-white: #FFFFFF;
+  --sohub-black: #0C1016;
+  --sohub-grey: #808080;
+  --sohub-soft-grey: #F4F6F8;
+  --sohub-border: #E5E7EB;
+  --sohub-accent: #1E242C;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-sohub-white: var(--sohub-white);
+  --color-sohub-black: var(--sohub-black);
+  --color-sohub-grey: var(--sohub-grey);
+  --color-sohub-soft-grey: var(--sohub-soft-grey);
+  --color-sohub-border: var(--sohub-border);
+  --color-sohub-accent: var(--sohub-accent);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Custom utilities for the Sohub aesthetic */
+.sohub-panel {
+  background: var(--sohub-white);
+  border: 1px solid var(--sohub-border);
+  border-radius: 1.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+}
+
+.sohub-text-bold {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}

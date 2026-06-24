@@ -1,0 +1,902 @@
+[
+  {
+    "url": "https://words.filippo.io/vuln-reports/",
+    "collectedAt": "2026-06-24T05:16:56.289Z",
+    "content": {
+      "headline": "Vulnerability reports are not special anymore",
+      "source": "words.filippo.io",
+      "published_date": "2026-06-23T23:42:46.000Z"
+    }
+  },
+  {
+    "url": "http://www.jerrysmap.com/the-map",
+    "collectedAt": "2026-06-24T05:16:56.598Z",
+    "content": {
+      "headline": "Jerry's Map",
+      "source": "www.jerrysmap.com",
+      "published_date": "2026-06-23T18:40:22.000Z"
+    }
+  },
+  {
+    "url": "https://swipe.futo.tech/",
+    "collectedAt": "2026-06-24T05:16:56.907Z",
+    "content": {
+      "headline": "FUTO Swipe – A new swipe typing model",
+      "source": "swipe.futo.tech",
+      "published_date": "2026-06-23T17:50:22.000Z"
+    }
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.24597",
+    "collectedAt": "2026-06-24T05:16:57.215Z",
+    "content": {
+      "headline": "Qwen-AgentWorld: Language World Models for General Agents",
+      "source": "arxiv.org",
+      "published_date": "2026-06-24T02:21:47.000Z"
+    }
+  },
+  {
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+    "collectedAt": "2026-06-24T05:16:57.523Z",
+    "content": {
+      "headline": "In memory of the man who put red and green squiggles under words",
+      "source": "devblogs.microsoft.com",
+      "published_date": "2026-06-23T18:10:47.000Z"
+    }
+  },
+  {
+    "url": "https://glyphcss.com",
+    "collectedAt": "2026-06-24T05:16:57.831Z",
+    "content": {
+      "headline": "Show HN: An ASCII 3D Rendering Engine",
+      "source": "glyphcss.com",
+      "published_date": "2026-06-20T19:10:41.000Z"
+    }
+  },
+  {
+    "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+    "collectedAt": "2026-06-24T05:16:58.141Z",
+    "content": {
+      "headline": "Printing Gaussian Splats",
+      "source": "www.patreon.com",
+      "published_date": "2026-06-21T12:49:02.000Z"
+    }
+  },
+  {
+    "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+    "collectedAt": "2026-06-24T05:16:58.453Z",
+    "content": {
+      "headline": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "source": "github.com",
+      "published_date": "2026-06-24T02:12:31.000Z"
+    }
+  },
+  {
+    "url": "https://ps.tc/pages/blog-usbliter8.html",
+    "collectedAt": "2026-06-24T05:16:58.764Z",
+    "content": {
+      "headline": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "source": "ps.tc",
+      "published_date": "2026-06-18T14:23:38.000Z"
+    }
+  },
+  {
+    "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+    "collectedAt": "2026-06-24T05:16:59.072Z",
+    "content": {
+      "headline": "Swift Package Index joins Apple",
+      "source": "swiftpackageindex.com",
+      "published_date": "2026-06-23T18:00:58.000Z"
+    }
+  },
+  {
+    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+    "collectedAt": "2026-06-24T05:16:59.382Z",
+    "content": {
+      "headline": "Rhombus Language 1.0",
+      "source": "blog.racket-lang.org",
+      "published_date": "2026-06-22T17:50:40.000Z"
+    }
+  },
+  {
+    "url": "https://tikz.dev/editor/",
+    "collectedAt": "2026-06-24T05:16:59.694Z",
+    "content": {
+      "headline": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "source": "tikz.dev",
+      "published_date": "2026-06-23T14:24:21.000Z"
+    }
+  },
+  {
+    "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+    "collectedAt": "2026-06-24T05:17:00.007Z",
+    "content": {
+      "headline": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "source": "www.wired.com",
+      "published_date": "2026-06-24T00:28:41.000Z"
+    }
+  },
+  {
+    "url": "https://dynomight.net/vitamin-d/",
+    "collectedAt": "2026-06-24T05:17:00.318Z",
+    "content": {
+      "headline": "The worthlessness of Vitamin D is mildly exaggerated",
+      "source": "dynomight.net",
+      "published_date": "2026-06-23T16:30:18.000Z"
+    }
+  },
+  {
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "collectedAt": "2026-06-24T05:17:00.629Z",
+    "content": {
+      "headline": "The Coming Loop",
+      "source": "lucumr.pocoo.org",
+      "published_date": "2026-06-23T11:06:41.000Z"
+    }
+  },
+  {
+    "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+    "collectedAt": "2026-06-24T05:17:00.939Z",
+    "content": {
+      "headline": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "source": "gitlab.com",
+      "published_date": "2026-06-24T03:17:47.000Z"
+    }
+  },
+  {
+    "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+    "collectedAt": "2026-06-24T05:17:01.252Z",
+    "content": {
+      "headline": "The Teensy Executable Revisited",
+      "source": "www.muppetlabs.com",
+      "published_date": "2026-06-24T02:30:13.000Z"
+    }
+  },
+  {
+    "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+    "collectedAt": "2026-06-24T05:17:01.561Z",
+    "content": {
+      "headline": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "source": "www.thedrive.com",
+      "published_date": "2026-06-22T18:03:03.000Z"
+    }
+  },
+  {
+    "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
+    "collectedAt": "2026-06-24T05:17:01.874Z",
+    "content": {
+      "headline": "Extreme Heat conference cancelled due to extreme heat warning",
+      "source": "www.lse.ac.uk",
+      "published_date": "2026-06-23T23:26:43.000Z"
+    }
+  },
+  {
+    "url": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
+    "collectedAt": "2026-06-24T05:17:02.186Z",
+    "content": {
+      "headline": "The war on terror primed America for autocracy",
+      "source": "www.economist.com",
+      "published_date": "2026-06-24T02:23:39.000Z"
+    }
+  },
+  {
+    "url": "https://primecrunch.com/blog/2/hunting-million-digit-primes-from-my-loft",
+    "collectedAt": "2026-06-24T05:17:02.517Z",
+    "content": {
+      "headline": "Hunting Million-Digit Primes from My Loft",
+      "source": "primecrunch.com",
+      "published_date": "2026-06-21T17:58:49.000Z"
+    }
+  },
+  {
+    "url": "https://dirtylittlezine.com/",
+    "collectedAt": "2026-06-24T05:17:02.836Z",
+    "content": {
+      "headline": "Dirty Little Zine – a tool for making an 8 page printable Zine",
+      "source": "dirtylittlezine.com",
+      "published_date": "2026-06-20T18:58:14.000Z"
+    }
+  },
+  {
+    "url": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/",
+    "collectedAt": "2026-06-24T05:17:03.144Z",
+    "content": {
+      "headline": "Millimeter wave technology drills 100 meters into granite",
+      "source": "www.thinkgeoenergy.com",
+      "published_date": "2026-06-20T18:24:55.000Z"
+    }
+  },
+  {
+    "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
+    "collectedAt": "2026-06-24T05:17:03.454Z",
+    "content": {
+      "headline": "Inventing the Future, One Lisp Machine at a Time",
+      "source": "www.patrickdomanico.com",
+      "published_date": "2026-06-22T15:24:40.000Z"
+    }
+  },
+  {
+    "url": "https://github.com/dmtrKovalenko/ffs",
+    "collectedAt": "2026-06-24T05:17:03.764Z",
+    "content": {
+      "headline": "F* file system – file search that reads SSD directly bypassing OS kernel",
+      "source": "github.com",
+      "published_date": "2026-06-21T20:44:33.000Z"
+    }
+  },
+  {
+    "url": "https://github.com/context-labs/halo",
+    "collectedAt": "2026-06-24T05:17:04.075Z",
+    "content": {
+      "headline": "Show HN: RLM-based local debugger for AI agent traces",
+      "source": "github.com",
+      "published_date": "2026-06-23T18:21:52.000Z"
+    }
+  },
+  {
+    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+    "collectedAt": "2026-06-24T05:17:04.400Z",
+    "content": {
+      "headline": "The Low-Tech AI of Elden Ring",
+      "source": "nega.tv",
+      "published_date": "2026-06-23T11:40:50.000Z"
+    }
+  },
+  {
+    "url": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html",
+    "collectedAt": "2026-06-24T05:17:04.712Z",
+    "content": {
+      "headline": "QSOE: QNX-inspired OS with dual-kernel architecture",
+      "source": "qsoe-dev.blogspot.com",
+      "published_date": "2026-06-22T13:46:57.000Z"
+    }
+  },
+  {
+    "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+    "collectedAt": "2026-06-24T05:17:05.032Z",
+    "content": {
+      "headline": "Fired by Google for creating the Google workspace CLI",
+      "source": "twitter.com",
+      "published_date": "2026-06-23T18:13:40.000Z"
+    }
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
+    "collectedAt": "2026-06-24T05:17:05.354Z",
+    "content": {
+      "headline": "Five monitors on a Commodore 128 [video]",
+      "source": "www.youtube.com",
+      "published_date": "2026-06-22T18:39:22.000Z"
+    }
+  },
+  {
+    "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
+    "collectedAt": "2026-06-24T05:17:05.664Z",
+    "content": {
+      "headline": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
+      "source": "semiconductor.samsung.com",
+      "published_date": "2026-06-19T11:03:52.000Z"
+    }
+  },
+  {
+    "url": "https://fastubu.com/",
+    "collectedAt": "2026-06-24T05:17:05.973Z",
+    "content": {
+      "headline": "Show HN: FastUbu – An Ultrafast Video Archive",
+      "source": "fastubu.com",
+      "published_date": "2026-06-22T15:34:34.000Z"
+    }
+  },
+  {
+    "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
+    "collectedAt": "2026-06-24T05:17:06.284Z",
+    "content": {
+      "headline": "US AI stock sell-off shakes markets from Wall Street to Asia",
+      "source": "www.theguardian.com",
+      "published_date": "2026-06-24T03:36:50.000Z"
+    }
+  },
+  {
+    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
+    "collectedAt": "2026-06-24T05:17:06.595Z",
+    "content": {
+      "headline": "I can haz smoller NixOS ISOs?",
+      "source": "natkr.com",
+      "published_date": "2026-06-19T21:55:24.000Z"
+    }
+  },
+  {
+    "url": "https://www.cbc.ca/news/canada/hamilton/moving-marineland-beluga-whales-9.7233160",
+    "collectedAt": "2026-06-24T05:17:06.908Z",
+    "content": {
+      "headline": "How to move a beluga across the world",
+      "source": "www.cbc.ca",
+      "published_date": "2026-06-20T14:33:17.000Z"
+    }
+  },
+  {
+    "url": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
+    "collectedAt": "2026-06-24T05:17:07.218Z",
+    "content": {
+      "headline": "The deadly rise of giant trucks and SUVs",
+      "source": "www.nytimes.com",
+      "published_date": "2026-06-21T22:42:32.000Z"
+    }
+  },
+  {
+    "url": "https://milek7.pl/mailverifyspam/",
+    "collectedAt": "2026-06-24T05:17:07.528Z",
+    "content": {
+      "headline": "Don't verify email addresses by sending spam to them",
+      "source": "milek7.pl",
+      "published_date": "2026-06-23T20:23:49.000Z"
+    }
+  },
+  {
+    "url": "https://github.com/bluesky-social/proposals/pull/94",
+    "collectedAt": "2026-06-24T05:17:07.839Z",
+    "content": {
+      "headline": "ATProto Permissioned Data Proposal Draft",
+      "source": "github.com",
+      "published_date": "2026-06-23T21:29:20.000Z"
+    }
+  },
+  {
+    "url": "https://lift4d.github.io/",
+    "collectedAt": "2026-06-24T05:17:08.151Z",
+    "content": {
+      "headline": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "source": "lift4d.github.io",
+      "published_date": "2026-06-23T14:40:17.000Z"
+    }
+  },
+  {
+    "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+    "collectedAt": "2026-06-24T05:17:08.464Z",
+    "content": {
+      "headline": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+      "source": "gist.github.com",
+      "published_date": "2026-06-24T02:38:47.000Z"
+    }
+  },
+  {
+    "url": "https://github.com/y-times-y/y",
+    "collectedAt": "2026-06-24T05:17:08.799Z",
+    "content": {
+      "headline": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+      "source": "github.com",
+      "published_date": "2026-06-24T00:15:31.000Z"
+    }
+  },
+  {
+    "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+    "collectedAt": "2026-06-24T05:17:09.110Z",
+    "content": {
+      "headline": "AI's Affordability Crisis",
+      "source": "blog.dshr.org",
+      "published_date": "2026-06-23T15:11:17.000Z"
+    }
+  },
+  {
+    "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
+    "collectedAt": "2026-06-24T05:17:09.419Z",
+    "content": {
+      "headline": "Trains halted across Germany because of communication system problem",
+      "source": "apnews.com",
+      "published_date": "2026-06-23T21:19:44.000Z"
+    }
+  },
+  {
+    "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+    "collectedAt": "2026-06-24T05:17:09.739Z",
+    "content": {
+      "headline": "Steam Machine launches today",
+      "source": "store.steampowered.com",
+      "published_date": "2026-06-22T17:09:51.000Z"
+    }
+  },
+  {
+    "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+    "collectedAt": "2026-06-24T05:17:10.156Z",
+    "content": {
+      "headline": "Finding the best dog treat with statistics",
+      "source": "www.wespiser.com",
+      "published_date": "2026-06-22T17:46:48.000Z"
+    }
+  },
+  {
+    "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
+    "collectedAt": "2026-06-24T05:17:10.468Z",
+    "content": {
+      "headline": "San Diego photologs from the 1970s",
+      "source": "www.beautifulpublicdata.com",
+      "published_date": "2026-06-23T16:55:26.000Z"
+    }
+  },
+  {
+    "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+    "collectedAt": "2026-06-24T05:17:10.780Z",
+    "content": {
+      "headline": "Apple is going to raise device prices, but when?",
+      "source": "daringfireball.net",
+      "published_date": "2026-06-23T10:54:56.000Z"
+    }
+  },
+  {
+    "url": "https://www.monolisa.dev/",
+    "collectedAt": "2026-06-24T05:17:11.090Z",
+    "content": {
+      "headline": "Show HN: Monolisa v3 – a typeface for developers and creatives",
+      "source": "www.monolisa.dev",
+      "published_date": "2026-06-22T14:05:23.000Z"
+    }
+  },
+  {
+    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+    "collectedAt": "2026-06-24T05:17:11.411Z",
+    "content": {
+      "headline": "Algorithmic Monocultures in Hiring",
+      "source": "hai.stanford.edu",
+      "published_date": "2026-06-23T18:56:19.000Z"
+    }
+  },
+  {
+    "url": "https://werd.io/signs-youre-a-dangerous-terrorist-using-signal-moving-zines/",
+    "collectedAt": "2026-06-24T05:17:11.720Z",
+    "content": {
+      "headline": "Signs you're a dangerous terrorist: using Signal, moving zines",
+      "source": "werd.io",
+      "published_date": "2026-06-23T19:13:10.000Z"
+    }
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/23/us/politics/congress-housing-bill.html",
+    "collectedAt": "2026-06-24T05:17:12.029Z",
+    "content": {
+      "headline": "Congress Clears Housing Bill, Cementing a Rare Bipartisan Feat",
+      "source": "www.nytimes.com",
+      "published_date": "2026-06-24T02:39:15.000Z"
+    }
+  },
+  {
+    "url": "https://mistral.ai/news/ocr-4/",
+    "collectedAt": "2026-06-24T05:17:12.340Z",
+    "content": {
+      "headline": "Mistral OCR 4",
+      "source": "mistral.ai",
+      "published_date": "2026-06-23T14:03:19.000Z"
+    }
+  },
+  {
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "collectedAt": "2026-06-24T05:17:12.651Z",
+    "content": {
+      "headline": "Unlimited OCR: One-shot long-horizon parsing",
+      "source": "github.com",
+      "published_date": "2026-06-23T11:35:05.000Z"
+    }
+  },
+  {
+    "url": "https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html",
+    "collectedAt": "2026-06-24T05:17:12.961Z",
+    "content": {
+      "headline": "Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards",
+      "source": "finance.yahoo.com",
+      "published_date": "2026-06-23T16:27:49.000Z"
+    }
+  },
+  {
+    "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+    "collectedAt": "2026-06-24T05:17:13.272Z",
+    "content": {
+      "headline": "Madison Square Garden compiled a list of activists against facial recognition",
+      "source": "www.404media.co",
+      "published_date": "2026-06-23T13:36:10.000Z"
+    }
+  },
+  {
+    "url": "https://github.com/future-file-format/f3",
+    "collectedAt": "2026-06-24T05:17:13.584Z",
+    "content": {
+      "headline": "F3",
+      "source": "github.com",
+      "published_date": "2026-06-23T16:53:32.000Z"
+    }
+  },
+  {
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "collectedAt": "2026-06-24T05:17:14.049Z",
+    "content": {
+      "headline": "Claude Tag",
+      "source": "www.anthropic.com",
+      "published_date": "2026-06-23T17:09:18.000Z"
+    }
+  },
+  {
+    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+    "collectedAt": "2026-06-24T05:17:14.358Z",
+    "content": {
+      "headline": "Performance improvements in libffi",
+      "source": "atgreen.github.io",
+      "published_date": "2026-06-21T14:18:10.000Z"
+    }
+  },
+  {
+    "url": "https://github.com/decrazyo/anes",
+    "collectedAt": "2026-06-24T05:17:14.666Z",
+    "content": {
+      "headline": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+      "source": "github.com",
+      "published_date": "2026-06-23T23:21:35.000Z"
+    }
+  },
+  {
+    "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+    "collectedAt": "2026-06-24T05:17:14.974Z",
+    "content": {
+      "headline": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
+      "source": "cowboystatedaily.com",
+      "published_date": "2026-06-20T23:33:19.000Z"
+    }
+  },
+  {
+    "url": "https://orionbrowser.com/updates/versions/1.1",
+    "collectedAt": "2026-06-24T05:17:15.282Z",
+    "content": {
+      "headline": "Orion 1.1 for macOS is out, with containers",
+      "source": "orionbrowser.com",
+      "published_date": "2026-06-23T20:22:41.000Z"
+    }
+  },
+  {
+    "url": "https://www.inc.com/jessica-stillman/the-worst-its-ever-been-why-metas-massive-ai-reorg-backfired-spectacularly/91363370",
+    "collectedAt": "2026-06-24T05:17:15.591Z",
+    "content": {
+      "headline": "'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly",
+      "source": "www.inc.com",
+      "published_date": "2026-06-24T00:20:51.000Z"
+    }
+  },
+  {
+    "url": "https://atomprophet.io/tools/cascade/",
+    "collectedAt": "2026-06-24T05:17:15.902Z",
+    "content": {
+      "headline": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
+      "source": "atomprophet.io",
+      "published_date": "2026-06-23T15:22:41.000Z"
+    }
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+    "collectedAt": "2026-06-24T05:17:16.214Z",
+    "content": {
+      "headline": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "source": "www.ycombinator.com",
+      "published_date": "2026-06-22T21:00:51.000Z"
+    }
+  },
+  {
+    "url": "https://spacedaily.com/t-no-spacecraft-has-ever-landed-in-the-outer-solar-system-except-one-the-huygens-probe-which-parachuted-through-titans-orange-haze-in-2005-and-touched-down-more-than-a-billion-kilometres-fr/",
+    "collectedAt": "2026-06-24T05:17:16.526Z",
+    "content": {
+      "headline": "2004 Huygens probe to Saturn's Titan: Still our only outer solar system lander",
+      "source": "spacedaily.com",
+      "published_date": "2026-06-22T05:31:22.000Z"
+    }
+  },
+  {
+    "url": "https://www.newscientist.com/article/2531319-woman-with-alzheimers-starts-conversing-again-after-taking-psilocybin/",
+    "collectedAt": "2026-06-24T05:17:16.835Z",
+    "content": {
+      "headline": "Woman with Alzheimer's starts conversing again after taking psilocybin",
+      "source": "www.newscientist.com",
+      "published_date": "2026-06-24T02:05:21.000Z"
+    }
+  },
+  {
+    "url": "https://github.com/ilbertt/bun-sqlgen",
+    "collectedAt": "2026-06-24T05:17:17.142Z",
+    "content": {
+      "headline": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
+      "source": "github.com",
+      "published_date": "2026-06-23T14:20:24.000Z"
+    }
+  },
+  {
+    "url": "https://worksinprogress.co/issue/the-wonder-of-epidurals/",
+    "collectedAt": "2026-06-24T05:17:17.452Z",
+    "content": {
+      "headline": "Epidurals are a miracle technology",
+      "source": "worksinprogress.co",
+      "published_date": "2026-06-20T16:24:44.000Z"
+    }
+  },
+  {
+    "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+    "collectedAt": "2026-06-24T05:17:17.763Z",
+    "content": {
+      "headline": "A Man Was Gifted His Dream Car by the Notorious Hacker He Put in Prison",
+      "source": "www.thedrive.com",
+      "published_date": "2026-06-23T16:18:26.000Z"
+    }
+  },
+  {
+    "url": "https://www.the3dprintingnerd.com/ab2047",
+    "collectedAt": "2026-06-24T05:17:18.073Z",
+    "content": {
+      "headline": "California AB 2047 makes 3D printers off-limits to students, educators, business",
+      "source": "www.the3dprintingnerd.com",
+      "published_date": "2026-06-23T22:12:18.000Z"
+    }
+  },
+  {
+    "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+    "collectedAt": "2026-06-24T05:17:18.382Z",
+    "content": {
+      "headline": "Elevated error rate across multiple models",
+      "source": "status.claude.com",
+      "published_date": "2026-06-23T14:19:47.000Z"
+    }
+  },
+  {
+    "url": "https://www.swiftlatex.com/",
+    "collectedAt": "2026-06-24T05:17:18.691Z",
+    "content": {
+      "headline": "LaTeX.wasm: LaTeX Engines in Browsers",
+      "source": "www.swiftlatex.com",
+      "published_date": "2026-06-23T20:04:33.000Z"
+    }
+  },
+  {
+    "url": "https://blog.zarfhome.com/2026/06/steam-machine-oh-no",
+    "collectedAt": "2026-06-24T05:17:19.002Z",
+    "content": {
+      "headline": "I am a person who will look at the Steam Machine and cry",
+      "source": "blog.zarfhome.com",
+      "published_date": "2026-06-23T18:07:48.000Z"
+    }
+  },
+  {
+    "url": "https://galton.org/fingerprints/faulds-1880-nature-furrows.pdf",
+    "collectedAt": "2026-06-24T05:17:19.313Z",
+    "content": {
+      "headline": "On the Skin-Furrows of the Hand (1880) [pdf]",
+      "source": "galton.org",
+      "published_date": "2026-06-22T07:14:08.000Z"
+    }
+  },
+  {
+    "url": "https://www.axios.com/2026/06/23/tech-stocks-ai-bubble",
+    "collectedAt": "2026-06-24T05:17:19.629Z",
+    "content": {
+      "headline": "Tech stocks slump as AI bubble fears loom",
+      "source": "www.axios.com",
+      "published_date": "2026-06-24T01:30:04.000Z"
+    }
+  },
+  {
+    "url": "https://www.binghamton.edu/news/story/6327/s-m-a-r-t-these-researchers-used-math-to-crack-wordle",
+    "collectedAt": "2026-06-24T05:17:19.953Z",
+    "content": {
+      "headline": "Solving Wordle using information theory",
+      "source": "www.binghamton.edu",
+      "published_date": "2026-06-20T22:38:46.000Z"
+    }
+  },
+  {
+    "url": "https://nand2mario.github.io/posts/2026/80386_early_start/",
+    "collectedAt": "2026-06-24T05:17:20.264Z",
+    "content": {
+      "headline": "80386 Early Start Memory Access",
+      "source": "nand2mario.github.io",
+      "published_date": "2026-06-23T12:37:04.000Z"
+    }
+  },
+  {
+    "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+    "collectedAt": "2026-06-24T05:17:20.575Z",
+    "content": {
+      "headline": "What we call \"age verification\" is actually mass surveillance",
+      "source": "pluralistic.net",
+      "published_date": "2026-06-23T14:04:43.000Z"
+    }
+  },
+  {
+    "url": "https://www.yochai.wiki/chat",
+    "collectedAt": "2026-06-24T05:17:20.885Z",
+    "content": {
+      "headline": "Show HN: AI Torah Chervuta",
+      "source": "www.yochai.wiki",
+      "published_date": "2026-06-23T20:53:15.000Z"
+    }
+  },
+  {
+    "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
+    "collectedAt": "2026-06-24T05:17:21.195Z",
+    "content": {
+      "headline": "Crypto in 2026: Oh, This Is the Bad Place",
+      "source": "www.stephendiehl.com",
+      "published_date": "2026-06-23T10:04:04.000Z"
+    }
+  },
+  {
+    "url": "https://openai.com/index/daybreak-securing-the-world/",
+    "collectedAt": "2026-06-24T05:17:21.505Z",
+    "content": {
+      "headline": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "source": "openai.com",
+      "published_date": "2026-06-23T01:36:08.000Z"
+    }
+  },
+  {
+    "url": "https://plotnine.org/",
+    "collectedAt": "2026-06-24T05:17:21.815Z",
+    "content": {
+      "headline": "Plotnine",
+      "source": "plotnine.org",
+      "published_date": "2026-06-19T09:08:00.000Z"
+    }
+  },
+  {
+    "url": "https://dandylyons.github.io/treedocs/",
+    "collectedAt": "2026-06-24T05:17:22.226Z",
+    "content": {
+      "headline": "Show HN: Treedocs: Documentation that automatically checks for staleness",
+      "source": "dandylyons.github.io",
+      "published_date": "2026-06-23T15:07:30.000Z"
+    }
+  },
+  {
+    "url": "https://selforg-npa.github.io/",
+    "collectedAt": "2026-06-24T05:17:22.687Z",
+    "content": {
+      "headline": "Show HN: Neural Particle Automata",
+      "source": "selforg-npa.github.io",
+      "published_date": "2026-06-23T08:31:48.000Z"
+    }
+  },
+  {
+    "url": "https://unsloth.ai/docs/models/glm-5.2",
+    "collectedAt": "2026-06-24T05:17:23.060Z",
+    "content": {
+      "headline": "GLM-5.2 – How to Run Locally",
+      "source": "unsloth.ai",
+      "published_date": "2026-06-22T21:21:01.000Z"
+    }
+  },
+  {
+    "url": "https://publicdomainreview.org/collection/art-of-kite-flying/",
+    "collectedAt": "2026-06-24T05:17:23.369Z",
+    "content": {
+      "headline": "The Art of Kite Flying (1430–1929)",
+      "source": "publicdomainreview.org",
+      "published_date": "2026-06-22T01:39:57.000Z"
+    }
+  },
+  {
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "collectedAt": "2026-06-24T05:17:23.789Z",
+    "content": {
+      "headline": "Help I accidentally a wigglegram",
+      "source": "lmao.center",
+      "published_date": "2026-06-20T01:55:16.000Z"
+    }
+  },
+  {
+    "url": "https://corbettreport.com/i-read-the-palantir-manifesto/",
+    "collectedAt": "2026-06-24T05:17:24.109Z",
+    "content": {
+      "headline": "I Read the Palantir Manifesto",
+      "source": "corbettreport.com",
+      "published_date": "2026-06-24T02:04:55.000Z"
+    }
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c4gyk756mzlo",
+    "collectedAt": "2026-06-24T05:17:24.419Z",
+    "content": {
+      "headline": "Hospitals switched to pen and paper to defeat a national cyber-attack",
+      "source": "www.bbc.com",
+      "published_date": "2026-06-24T00:30:31.000Z"
+    }
+  },
+  {
+    "url": "https://community.ibm.com/community/user/blogs/elizabeth-k-joseph1/2026/06/18/linuxone-open-source-report-may-2026",
+    "collectedAt": "2026-06-24T05:17:24.727Z",
+    "content": {
+      "headline": "Open Source for IBM Z and LinuxONE",
+      "source": "community.ibm.com",
+      "published_date": "2026-06-20T10:32:35.000Z"
+    }
+  },
+  {
+    "url": "https://twitter.com/SandyofCthulhu/status/2069592209645785294",
+    "collectedAt": "2026-06-24T05:17:25.034Z",
+    "content": {
+      "headline": "How Quake Ruined Id Software",
+      "source": "twitter.com",
+      "published_date": "2026-06-24T02:30:09.000Z"
+    }
+  },
+  {
+    "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/",
+    "collectedAt": "2026-06-24T05:17:25.341Z",
+    "content": {
+      "headline": "AI has already killed academia as we know it?",
+      "source": "truths-and-loves.ghost.io",
+      "published_date": "2026-06-22T19:36:58.000Z"
+    }
+  },
+  {
+    "url": "https://blog.arusekk.pl/posts/lossless-gif-recompression/",
+    "collectedAt": "2026-06-24T05:17:25.651Z",
+    "content": {
+      "headline": "Lossless GIF recompression via exhaustive search",
+      "source": "blog.arusekk.pl",
+      "published_date": "2026-06-23T12:56:16.000Z"
+    }
+  },
+  {
+    "url": "https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union",
+    "collectedAt": "2026-06-24T05:17:25.974Z",
+    "content": {
+      "headline": "United Wizards of the Coast recognized by NLRB",
+      "source": "unitedwizardsofthecoast.com",
+      "published_date": "2026-06-23T21:57:32.000Z"
+    }
+  },
+  {
+    "url": "https://kevquirk.com/no-i-dont-want-you-to-summarise-the-page",
+    "collectedAt": "2026-06-24T05:17:26.283Z",
+    "content": {
+      "headline": "I don't want you to summarise the page",
+      "source": "kevquirk.com",
+      "published_date": "2026-06-23T16:02:12.000Z"
+    }
+  },
+  {
+    "url": "https://www.science.org/content/article/wolves-are-reconquering-europe-can-people-learn-live-them",
+    "collectedAt": "2026-06-24T05:17:26.592Z",
+    "content": {
+      "headline": "Wolves are reconquering Europe. Can people learn to live with them?",
+      "source": "www.science.org",
+      "published_date": "2026-06-22T18:38:13.000Z"
+    }
+  },
+  {
+    "url": "https://www.reuters.com/world/middle-east/israel-targeted-gaza-children-resulting-genocide-un-inquiry-says-2026-06-23/",
+    "collectedAt": "2026-06-24T05:17:26.992Z",
+    "content": {
+      "headline": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
+      "source": "www.reuters.com",
+      "published_date": "2026-06-23T10:16:48.000Z"
+    }
+  },
+  {
+    "url": "https://github.com/shumaiOne/shumai",
+    "collectedAt": "2026-06-24T05:17:27.303Z",
+    "content": {
+      "headline": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+      "source": "github.com",
+      "published_date": "2026-06-23T10:02:54.000Z"
+    }
+  },
+  {
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "collectedAt": "2026-06-24T05:17:27.614Z",
+    "content": {
+      "headline": "Deno Desktop",
+      "source": "docs.deno.com",
+      "published_date": "2026-06-22T05:38:40.000Z"
+    }
+  },
+  {
+    "url": "https://ex-vi.sourceforge.net/",
+    "collectedAt": "2026-06-24T05:17:27.925Z",
+    "content": {
+      "headline": "The Traditional Vi (2007)",
+      "source": "ex-vi.sourceforge.net",
+      "published_date": "2026-06-23T09:00:48.000Z"
+    }
+  }
+]

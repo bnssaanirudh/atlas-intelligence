@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: oneatlas_postgres
+    environment:
+      POSTGRES_USER: oneatlas
+      POSTGRES_PASSWORD: oneatlas_password
+      POSTGRES_DB: oneatlas_appspec
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U oneatlas -d oneatlas_appspec"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data:
